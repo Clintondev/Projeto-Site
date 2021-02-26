@@ -26,9 +26,9 @@ h2 {
 }
 
 h3{
-    position:relative;
-	left:75%;
-	top:50%;
+    position:absolute;
+	left:55%;
+	top:35%;
 }
 
 p{
