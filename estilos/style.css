@@ -40,12 +40,13 @@ a {
     color: rgb(79, 5, 148);
     width: 10x;
     height: 10px;
+    position: relative;
 }
 
 a:hover {
     text-decoration: underline;
     color: blueviolet;
-    float: right;
+   
     
 }
 
