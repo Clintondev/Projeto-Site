@@ -38,6 +38,8 @@ a {
 a:hover {
     text-decoration: underline;
     color: blueviolet;
+    width: 10x;
+    height: 10px;
 }
 
 img {
