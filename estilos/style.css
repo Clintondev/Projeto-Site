@@ -1,14 +1,41 @@
-*{
+* {
     font-family:Arial, Helvetica, sans-serif;
     font-size: 16px;
 }
-body{
+
+body {
     background-color: blueviolet;
     }
-main{
+
+main {
     background-color: aliceblue;
-    width: 500px;
+    width: 700px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(red, green, blue, alpha);
+}
+
+h1 {
+    font-size: 2em;
+    color: blueviolet;
+}
+
+h2 {
+    font-size: 1.5em;
+    color: blueviolet;
+}
+
+img.lado {
+    float: right;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(79, 5, 148);
+}
+
+a:hover {
+    text-decoration: underline;
+    color: blueviolet;
 }
