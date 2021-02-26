@@ -26,7 +26,7 @@ h2 {
 }
 
 img.lado {
-    position: fixed;
+    position: relative;
 }
 
 a {
