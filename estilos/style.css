@@ -43,5 +43,11 @@ a:hover {
 img {
     width: 100px;
     height: 100px;
-    
+    object-fit: scale-down;
+  }
+
+  div {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
   }
