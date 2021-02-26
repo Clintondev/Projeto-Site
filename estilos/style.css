@@ -41,9 +41,8 @@ a:hover {
 }
 
 img {
-    width: 700x;
+    width: 400x;
     height: 400px;
-    float: right;
     object-fit: scale-down;
   }
 
