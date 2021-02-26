@@ -41,13 +41,13 @@ a:hover {
 }
 
 img {
-    width: 100px;
-    height: 100px;
-    object-fit: scale-down;
+    width: 1000px;
+    height: 200px;
+    
   }
 
   div {
     border: 1px solid black;
-    width: 100px;
-    height: 100px;
+    width: 1000px;
+    height: 200px;
   }
