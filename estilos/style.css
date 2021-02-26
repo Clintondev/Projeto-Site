@@ -39,3 +39,9 @@ a:hover {
     text-decoration: underline;
     color: blueviolet;
 }
+
+img {
+    width: 100px;
+    height: 100px;
+    object-fit: scale-down;
+  }
