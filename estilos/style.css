@@ -47,6 +47,7 @@ a:hover {
 img {
     width: 300x;
     height: 300px;
+    object-fit: scale-down;
    
   }
 
