@@ -25,6 +25,11 @@ h2 {
     color: blueviolet;
 }
 
+p{
+    font-size: 1em;
+    color: blueviolet;
+}
+
 img.lado {
     position: relative;
 }
