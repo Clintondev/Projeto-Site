@@ -38,7 +38,6 @@ a {
     text-decoration: none;
     font-weight: bold;
     color: rgb(79, 5, 148);
-    float: right;
     width: 10x;
     height: 10px;
 }
@@ -46,6 +45,7 @@ a {
 a:hover {
     text-decoration: underline;
     color: blueviolet;
+    float: right;
     
 }
 
