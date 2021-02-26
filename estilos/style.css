@@ -27,6 +27,7 @@ h2 {
 
 h3{
     float: right;;
+    position: relative;
 }
 
 p{
